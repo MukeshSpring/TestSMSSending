@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_79"/>
+	<classpathentry kind="lib" path="D:/sms/twilio-7.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/sms/com.fasterxml.jackson.databind.jar"/>
+	<classpathentry kind="lib" path="D:/sms/com.fasterxml.jackson.core.jar"/>
+	<classpathentry kind="lib" path="D:/sms/httpclient-4.3-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/sms/google-collections-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/sms/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="D:/sms/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/sms/jackson-annotations-2.1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
